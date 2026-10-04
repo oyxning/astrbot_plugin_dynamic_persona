@@ -1,4 +1,4 @@
-# 动态人格 (Dynamic Persona) 插件
+﻿# 动态人格 (Dynamic Persona) 插件
 
 <p align="center">
   让你的 AstrBot “活”起来！
@@ -36,8 +36,7 @@
 
 启用插件并完成配置后，它将自动开始工作。现在就去和你的 Bot 对话吧，看看它的第一个“动态人格”会是什么！
 
-## 💡 另：插件反馈群
+## 💡 联系作者
 
-由于作者持续的那么一个懒，平常不会及时的看issues，所以开了个QQ反馈群方便用户及时的拷打作者。
-点击链接加入群聊【Astrbot Plugin 猫娘乐园】：https://qm.qq.com/q/dBWQXCpwnm
+如有紧急问题，请联系邮箱：shy0074@tongujiyu.cn
 
